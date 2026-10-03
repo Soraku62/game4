@@ -53386,7 +53386,7 @@ o===$&&A.b()
 n=l.d
 n===$&&A.b()
 m=t.nA
-m=A.d([A.a5n(A.a5z(A.d([j,s,r,B.tU,A.a2f(A.Bd(B.d_,A.d([new A.jk(new A.cR(p,-0.8+o*1.4),k,k,B.Jt,k),new A.jk(new A.cR(B.jx[n],0.7),k,k,B.Ju,k)],m),B.eo),k,new A.fm(k,k,new A.cz(q,q,q,q),i,k,k,B.bp),280,k,k,220)],m),B.h3),k,k)],m)
+m=A.d([A.a5n(A.a5z(A.d([j,s,r,B.tU,A.a2f(A.Bd(B.d_,A.d([new A.jk(new A.cR(p,-0.8+o*1.4),k,k,B.Jv,k),new A.jk(new A.cR(B.jx[n],0.7),k,k,B.Js,k)],m),B.eo),k,new A.fm(k,k,new A.cz(q,q,q,q),i,k,k,B.bp),280,k,k,220)],m),B.h3),k,k)],m)
 j=l.Q
 j===$&&A.b()
 if(j)m.push(A.agh(0,new A.yh(l.y,l.gRq(),k)))
@@ -53426,7 +53426,7 @@ s.d=r+1}}},
 $S:0}
 A.yh.prototype={
 S(a){var s=null,r=A.wK(12)
-return A.a2f(A.a5n(A.a2f(A.a5z(A.d([B.Jv,B.Ft,A.Vm("\u30b9\u30b3\u30a2\uff1a"+this.c,B.J0),B.tU,new A.xW(this.d,s,s,s,s,s,s,!1,s,s,B.Js,s)],t.nA),B.h3),s,new A.fm(B.i,s,s,r,s,s,B.bp),s,B.xO,B.xN,s),s,s),B.w,s,s,s,s,s)}}
+return A.a2f(A.a5n(A.a2f(A.a5z(A.d([B.Ju,B.Ft,A.Vm("\u30b9\u30b3\u30a2\uff1a"+this.c,B.J0),B.tU,new A.xW(this.d,s,s,s,s,s,s,!1,s,s,B.Jt,s)],t.nA),B.h3),s,new A.fm(B.i,s,s,r,s,s,B.bp),s,B.xO,B.xN,s),s,s),B.w,s,s,s,s,s)}}
 A.pj.prototype={
 af(a){var s,r,q=this.x,p=q.j(0,a)
 if(p!=null)return p
@@ -58096,10 +58096,9 @@ B.Ij=new A.l(!0,B.A,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.IA=new A.l(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.Gj=new A.l(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.Jr=new A.cY(B.HG,B.GR,B.HH,B.I2,B.GB,B.GI,B.H6,B.HZ,B.Hg,B.Im,B.Gc,B.Gr,B.Ij,B.IA,B.Gj)
-B.Js=new A.iM("\ud83d\udd01 \u3082\u3046\u4e00\u5ea6",null,null,null,null)
 B.ub=new A.l(!0,null,null,null,null,null,32,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Jt=new A.iM("\ud83c\udf4e",null,B.ub,null,null)
-B.Ju=new A.iM("\ud83e\uddfa",null,B.ub,null,null)
+B.Js=new A.iM("\ud83e\udd37\u200d\u2642\ufe0f",null,B.ub,null,null)
+B.Jt=new A.iM("\ud83d\udd01 \u3082\u3046\u4e00\u5ea6",null,null,null,null)
 B.wY=new A.y(1,1,0.9215686274509803,0.9333333333333333,B.f)
 B.wE=new A.y(1,1,0.803921568627451,0.8235294117647058,B.f)
 B.wz=new A.y(1,0.9372549019607843,0.6039215686274509,0.6039215686274509,B.f)
@@ -58112,7 +58111,8 @@ B.x3=new A.y(1,0.7176470588235294,0.10980392156862745,0.10980392156862745,B.f)
 B.BN=new A.c9([50,B.wY,100,B.wE,200,B.wz,300,B.xa,400,B.xe,500,B.x8,600,B.wS,700,B.iH,800,B.wX,900,B.x3],t.bl)
 B.BS=new A.qq(B.BN,1,0.9568627450980393,0.2627450980392157,0.21176470588235294,B.f)
 B.I7=new A.l(!0,B.BS,null,null,null,null,28,B.fG,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Jv=new A.iM("GAME OVER",null,B.I7,null,null)
+B.Ju=new A.iM("GAME OVER",null,B.I7,null,null)
+B.Jv=new A.iM("\ud83d\udc66",null,B.ub,null,null)
 B.Cr=new A.B(0.056,0.024)
 B.Cz=new A.B(0.108,0.3085)
 B.Co=new A.B(0.198,0.541)
